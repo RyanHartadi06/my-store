@@ -69,7 +69,7 @@ const LoginView = () => {
         </form>
       </div>
       <p className={styles.register__link}>
-        Don't Have Account ? Sign in <Link href="/auth/register">here</Link>
+        Dont Have Account ? Sign in <Link href="/auth/register">here</Link>
       </p>
     </div>
   );
