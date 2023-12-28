@@ -10,6 +10,12 @@
     font-size: 32px;
     margin-bottom: 10px;
   }
+
+  &__error {
+    color: red;
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
   &__form {
     width: 30%;
     padding: 20px;
